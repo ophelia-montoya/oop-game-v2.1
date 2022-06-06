@@ -1,7 +1,7 @@
 # oop-game-v2.1
  Browser based word-guessing game using JavaScript and Object-Oriented Programming.
 
-For "Exceededed Expectations:"
+For "Exceeded Expectations:"
 
 //changed header text color, .chosen, start screen background to #586431
 
